@@ -15,7 +15,7 @@
  * @wordpress-plugin
  * Plugin Name:       whatsapp msg
  * Plugin URI:        https://www.wpplanet.com.br
- * Description:       This is a short description of what the plugin does. It's displayed in the WordPress admin area.
+ * Description:       WhatsApp Help Chat para WordPress permite aos seus clientes abrir uma conversa do seu site diretamente para o seu número de telefone WhatsApp. 
  * Version:           1.0.0
  * Author:            WP Planet
  * Author URI:        https://www.wpplanet.com.br
